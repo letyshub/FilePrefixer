@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]E:\Projekty\Letys.FileNamePrefixer\Letys.FileNamePrefixer.Helper.Tests\Letys.FileNamePrefixer.Helper.Tests.csproj</TopNode>
+  <SelectedNode>[0-1016]E:\Projekty\Letys.FileNamePrefixer\bin\tests\Letys.FileNamePrefixer.Log.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]E:\Projekty\Letys.FileNamePrefixer\Letys.FileNamePrefixer.Helper.Tests\Letys.FileNamePrefixer.Helper.Tests.csproj" Expanded="true" />
+    <Node UniqueName="[0-1009]E:\Projekty\Letys.FileNamePrefixer\Letys.FileNamePrefixer.Helper.Tests\bin\Debug\Letys.FileNamePrefixer.Helper.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]Letys" Expanded="true" />
+    <Node UniqueName="[0-1011]Letys.FileNamePrefixer" Expanded="true" />
+    <Node UniqueName="[0-1012]Letys.FileNamePrefixer.Helper" Expanded="true" />
+    <Node UniqueName="[0-1013]Letys.FileNamePrefixer.Helper.Tests" Expanded="true" />
+    <Node UniqueName="[0-1001]Letys.FileNamePrefixer.Helper.Tests.PrefixHelperFactoryTest" Expanded="true" />
+    <Node UniqueName="[0-1004]Letys.FileNamePrefixer.Helper.Tests.RandomNumericPrefixHelperTest" Expanded="true" />
+    <Node UniqueName="[0-1016]E:\Projekty\Letys.FileNamePrefixer\bin\tests\Letys.FileNamePrefixer.Log.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1017]Letys" Expanded="true" />
+    <Node UniqueName="[0-1018]Letys.FileNamePrefixer" Expanded="true" />
+    <Node UniqueName="[0-1019]Letys.FileNamePrefixer.Log" Expanded="true" />
+    <Node UniqueName="[0-1020]Letys.FileNamePrefixer.Log.Tests" Expanded="true" />
+    <Node UniqueName="[0-1014]Letys.FileNamePrefixer.Log.Tests.LogFactoryTest" Expanded="true" />
+  </Nodes>
+</VisualState>
